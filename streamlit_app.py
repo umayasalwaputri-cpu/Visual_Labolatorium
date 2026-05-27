@@ -32,7 +32,7 @@ if menu == "Menimbang":
 
     # gambar neraca digital
     st.image(
-        "https://cdn-icons-png.flaticon.com/512/809/809957.png",
+        "https://cdn-icons-png.flaticon.com/512/3143/3143460.png",
         width=300
     )
 
@@ -82,7 +82,7 @@ if menu == "Titrasi":
 
     # gambar buret + erlenmeyer
     st.image(
-        "https://cdn-icons-png.flaticon.com/512/3314/3314476.png",
+        "https://cdn-icons-png.flaticon.com/512/4320/4320371.png",
         width=300
     )
 
